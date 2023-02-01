@@ -3,7 +3,7 @@
 Game Introduction   : 
 Alien vs. Zombie is a game that combines puzzle, path-planning and strategy. Players must navigates the path for alien to charge its attack in order to eliminate the zombies. The player will win once the alien defeated all zombies. 
 
-[alienvszombie](https://drive.google.com/file/d/1_B8DFHVSKUzg1RBCE_Q2ySC21yqygPKZ/view?usp=sharing) 
+[alienvszombie](https://drive.google.com/file/d/1_B8DFHVSKUzg1RBCE_Q2ySC21yqygPKZ/view?usp=sharing) <- open by using MMU email account
 
 YouTube link [Video Demo](https://youtu.be/lFmwh_RUcJQ)
 
