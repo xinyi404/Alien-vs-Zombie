@@ -76,8 +76,7 @@ List down the contribution of each group members.
 
 1. Game Board
 2. User can change the game board's rows and columns
-3. Compile code
-4. Submission :Work on Documentation
+3. Submission : Work on Documentation
 
 ## Problems Encountered & Solutions
 
