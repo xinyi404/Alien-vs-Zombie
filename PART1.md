@@ -5,20 +5,20 @@
 YouTube link [Video Demo](https://youtu.be/lFmwh_RUcJQ)
 
 ## Minimum Requirements
-able to display the user menu, setting, game board, game objects, game characters
-able to run help command and return back to menu 
-able to quit the game
-able to change rows and columns of game board by user
-able to change the total number of zombies 
-able to move character
-able to attack each other (alien and zombies)
-able to run game
-able to play the game by user
-able to skip the game by user
-able to save the game
-able to load game file
-able to play again
-game flow smoothly
+1. able to display the user menu, setting, game board, game objects, game characters
+2. able to run help command and return back to menu 
+3. able to quit the game
+4. able to change rows and columns of game board by user
+5. able to change the total number of zombies 
+6. able to move character
+7. able to attack each other (alien and zombies)
+8. able to run game
+9. able to play the game by user
+10. able to skip the game by user
+11. able to save the game
+12. able to load game file
+13. able to play again
+14. game flow smoothly
 
 
 ### Completed
